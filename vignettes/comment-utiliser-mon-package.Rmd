@@ -1,0 +1,30 @@
+---
+title: "comment-utiliser-mon-package"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{comment-utiliser-mon-package}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(mypackage)
+```
+
+## Ma première fonction
+
+Cette fonction sert d'exemple simple. Elle ajoute 2 à un nombre.
+
+```{r}
+
+ajoute_deux(7)
+
+```
+
