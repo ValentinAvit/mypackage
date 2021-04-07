@@ -20,8 +20,8 @@ Dans la fenêtre "Build" de l'interface Rstudio, "Check" permet d'effectuer des 
 
 
 
-Le cas d'appel de fonctions de packages n'est ici pas illustré. 
-Lorsqu'une fonction de ce package appelle une fonction qui n'est pas inclue dans le R de base, la fonction doit être de la forme "nompackage::nomfonction"
+Le cas d'appel de fonctions d'autres packages n'est ici pas illustré. 
+Lorsqu'une fonction de ce package appelle une fonction qui n'est pas incluse dans le R de base, la fonction doit être de la forme "nompackage::nomfonction"
 (contrairement à simplement "nomfonction" d'habitude). "@import nompackage" (ou bien "@importFrom nompackage nomfonction") doit être inclus entre "@return" et "@export".
 La commande "usethis::use_package("nompackage") doit ensuite être exécutée depuis le devtools_history.
 
