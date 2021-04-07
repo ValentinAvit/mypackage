@@ -27,7 +27,8 @@ La commande "usethis::use_package("nompackage") doit ensuite être exécutée de
 
 
 Pour plus d'informations sur le sujet, vous pouvez consulter le pdf suivant : https://drive.google.com/file/d/1m9JmT41J5ijnjpkSGfziXmnTdVUwvWbP/view?usp=sharing 
-créé dans le cadre du projet Visual Bait Filtering.
+créé dans le cadre du projet Visual Bait Filtering (il s'agissait ici de produire un package qui soit utilisée par une application RShiny. Il s'agit d'un cas
+particulier, on peut très bien vouloir créer un package pour autre chose).
 
 En cas d'interrogations, me contacter
 (à valentin.avit@supagro.fr)
