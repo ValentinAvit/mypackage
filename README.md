@@ -26,6 +26,8 @@ Lorsqu'une fonction de ce package appelle une fonction qui n'est pas incluse dan
 La commande "usethis::use_package("nompackage") doit ensuite être exécutée depuis le devtools_history.
 
 
+Pour plus d'informations sur le sujet, vous pouvez consulter le pdf suivant : https://drive.google.com/file/d/1m9JmT41J5ijnjpkSGfziXmnTdVUwvWbP/view?usp=sharing 
+créé dans le cadre du projet Visual Bait Filtering.
 
 En cas d'interrogations, me contacter
 (à valentin.avit@supagro.fr)
