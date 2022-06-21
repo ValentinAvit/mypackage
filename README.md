@@ -31,4 +31,4 @@ créé dans le cadre du projet Visual Bait Filtering (il s'agissait ici de produ
 particulier, on peut très bien vouloir créer un package pour autre chose).
 
 En cas d'interrogations, me contacter
-(à valentin.avit@supagro.fr)
+(à valentin.avit@laposte.net)
